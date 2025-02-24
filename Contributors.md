@@ -1,4 +1,5 @@
 # Contributors
+- Hello, I'm [NIHAL AKA INFO_BRUST](https://github.com/Nihal473) and it's my first open source contribution and i am so fucking lost.
 - Hello My name is Preston Mayieka (https://github.com/preston176)
 - Hello i am Dorin.
 - This is the beta testing.
